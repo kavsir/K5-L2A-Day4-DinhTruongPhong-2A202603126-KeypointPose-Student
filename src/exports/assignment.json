@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603126",
+ "ten": "DinhTruongPhong",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "phongdt",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000027565.jpg",
+  "000000162046.jpg",
+  "000000240340.jpg",
+  "000000314154.jpg",
+  "000000390585.jpg",
+  "000000078170.jpg",
+  "000000091637.jpg",
+  "000000311497.jpg",
+  "000000043500.jpg",
+  "000000163118.jpg",
+  "000000323705.jpg",
+  "000000332273.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_232598.jpg",
+  "face_575921.jpg",
+  "face_264124.jpg",
+  "face_416730.jpg",
+  "face_143959.jpg",
+  "face_324513.jpg",
+  "face_490361.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 11,
+   "job_id": 11,
+   "task_name": "persons-DinhTruongPhong"
+  },
+  "faces": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "faces-DinhTruongPhong"
+  }
+ }
+}
